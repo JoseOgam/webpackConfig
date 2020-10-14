@@ -88,7 +88,9 @@
 # Next we update our index.html and index.js files
 
   - in index.html file paste the following code
-       <!DOCTYPE html>
+      [
+           <!DOCTYPE html>
+
        <html lang="en">
        <head>
        <meta charset="UTF-8">
@@ -100,6 +102,8 @@
        <script src="./bundle.js"></script>
        </body>
        </html>
+
+      ]
 
   - in index.js file paste the following code
       

@@ -87,23 +87,10 @@
 
 # Next we update our index.html and index.js files
 
-  - in index.html file paste the following code
-      [
-           <!DOCTYPE html>
+  - in index.html file  add html5 and in the body section
+   add div tag with id="root" and script tag <script src="./bundle.js"></script>
 
-       <html lang="en">
-       <head>
-       <meta charset="UTF-8">
-       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <title>Document</title>
-       </head>
-       <body>
-       <div id="root"></div>
-       <script src="./bundle.js"></script>
-       </body>
-       </html>
-
-      ]
+      
 
   - in index.js file paste the following code
       

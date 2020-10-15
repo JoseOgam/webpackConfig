@@ -4,6 +4,7 @@ import NavBar from "./common/NavBar"
 import Contact from "./contact/Contact"
 import Homepage from "./homepage/Homepage"
 import PageNotFound from "./pageNotFound/PageNotFound"
+import "./styles/styles.scss"
 const App = () => {
     return (
         <div>
